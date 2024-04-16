@@ -6,8 +6,8 @@ When enter the user valid "<username>" and "<password>"
 And click ogin page
 Examples:
 |username|password|
-|Admin   |admin123|
-
+|Admin   |admin123  |
+|admin   |Admin123@@|
 @tag2
 Scenario: login
 Given when the user in loginpage
